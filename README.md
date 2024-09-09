@@ -25,6 +25,6 @@ Create basic chatbox using library Pyttsx3 with Vietnamese
 
 ![Screenshot 2024-09-09 225043](https://github.com/user-attachments/assets/e7269378-3bc0-4d97-bdb4-33b28dc05556)
 
-![Screenshot (13)](https://github.com/user-attachments/assets/423b4140-de0e-4f19-bfaf-c5c289130635)
+![Screenshot (13)](https://github.com/user-attachments/assets/5c669023-8ec5-48fe-98c3-5e9eae5a7912)
 
 ![Screenshot 2024-09-09 225128](https://github.com/user-attachments/assets/1516f117-6d4d-438e-96d3-40ee8b48ebdb)
