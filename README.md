@@ -1,6 +1,24 @@
 # Pyttsx3-Vietnamese
 Create basic chatbot using library Pyttsx3 with Vietnamese
 
+## Installation Steps for the pyttsx3 Library in Vietnamese
+
+To install the pyttsx3 library for text-to-speech functionality in Vietnamese, follow these steps:
+
+1. **Install Python**: Make sure you have Python installed on your machine. You can download it from the official website: python.org.
+
+2. **Open Command Prompt or Terminal**: Depending on your operating system, open the Command Prompt (Windows) or Terminal (macOS/Linux).
+
+3. **Install the pyttsx3 library**: Run the following command to install the library using pip:
+  
+  ```bash
+  pip install pyttsx3
+  ```
+
+4. **Install additional dependencies**: Depending on your operating system, you may need to install additional dependencies for voice support.
+
+Example (Windown):
+
 ![Screenshot (2)](https://github.com/user-attachments/assets/d717951b-940b-4f44-9d59-5f3c3ed91335)
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/6c7aad04-32df-4d22-a69c-886222140642)
@@ -35,5 +53,20 @@ Create basic chatbot using library Pyttsx3 with Vietnamese
 
 ![Screenshot 2024-09-09 230405](https://github.com/user-attachments/assets/935dea89-b968-4c1f-8aef-fa17dba2c17a)
 
+
+5. **Test the installation**: Create a simple Python script to test if the library is working correctly. Here’s an example:
+  
+  ```python
+  import pyttsx3
+  engine = pyttsx3.init()
+  engine.setProperty('voice', 'vietnamese')  # Set the voice to Vietnamese
+  engine.say("Xin chào! Đây là một thử nghiệm với pyttsx3.")
+  engine.runAndWait()
+  ```
+- Additionally, you can choose the following methods to install voice options:
+ 
 ![Screenshot 2024-09-09 231211](https://github.com/user-attachments/assets/6d08cb70-2625-498f-8359-a830dd27978f)
 
+6. **Run the script**: Save the script and run it to hear the text-to-speech output in Vietnamese.
+
+By following these steps, you should be able to successfully install and use the pyttsx3 library for Vietnamese text-to-speech functionality.
