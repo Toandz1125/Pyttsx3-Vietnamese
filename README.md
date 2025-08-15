@@ -1,5 +1,5 @@
 # Pyttsx3-Vietnamese
-Create basic chatbot using library Pyttsx3 with Vietnamese
+Created a basic chatbot using the Pyttsx3 library with Vietnamese or any language of choice.
 
 ## Installation Steps for the pyttsx3 Library in Vietnamese
 
